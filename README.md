@@ -1,1 +1,1 @@
-#Arch Linux Installation Guide
+# Arch Linux Installation Guide
